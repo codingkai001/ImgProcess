@@ -10,3 +10,4 @@ def get_ip():
     if ip is not None:
         return ip.text
     return '未知'
+
